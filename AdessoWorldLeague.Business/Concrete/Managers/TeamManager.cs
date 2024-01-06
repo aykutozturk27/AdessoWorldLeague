@@ -12,59 +12,59 @@ namespace AdessoWorldLeague.Business.Concrete.Managers
             _teams = new List<Team>
             {
                 #region Türkiye
-		        new Team{ Name = "Adesso İstanbul", CountryId = 1 },
-                new Team{ Name = "Adesso Ankara", CountryId = 1 },
-                new Team{ Name = "Adesso İzmir", CountryId = 1 },
-                new Team{ Name = "Adesso Antalya", CountryId = 1 }, 
+		        new Team{ Name = "Adesso İstanbul" },
+                new Team{ Name = "Adesso Ankara" },
+                new Team{ Name = "Adesso İzmir" },
+                new Team{ Name = "Adesso Antalya" }, 
 	            #endregion
 
                 #region Almanya
-                new Team{ Name = "Adesso Berlin", CountryId = 2 },
-                new Team{ Name = "Adesso Frankfurt", CountryId = 2 },
-                new Team{ Name = "Adesso Münih", CountryId = 2 },
-                new Team{ Name = "Adesso Dortmund", CountryId = 2 },
+                new Team{ Name = "Adesso Berlin" },
+                new Team{ Name = "Adesso Frankfurt" },
+                new Team{ Name = "Adesso Münih" },
+                new Team{ Name = "Adesso Dortmund" },
                 #endregion
 
                 #region Fransa
-                new Team{ Name = "Adesso Paris", CountryId = 3 },
-                new Team{ Name = "Adesso Marsilya", CountryId = 3 },
-                new Team{ Name = "Adesso Nice", CountryId = 3 },
-                new Team{ Name = "Adesso Lyon", CountryId = 3 },
+                new Team{ Name = "Adesso Paris"  },
+                new Team{ Name = "Adesso Marsilya" },
+                new Team{ Name = "Adesso Nice" },
+                new Team{ Name = "Adesso Lyon" },
                 #endregion
 
                 #region Hollanda
-                new Team{ Name = "Adesso Amsterdam", CountryId = 4 },
-                new Team{ Name = "Adesso Rotterdam", CountryId = 4 },
-                new Team{ Name = "Adesso Lahey", CountryId = 4 },
-                new Team{ Name = "Adesso Eindhoven", CountryId = 4 },
+                new Team{ Name = "Adesso Amsterdam" },
+                new Team{ Name = "Adesso Rotterdam" },
+                new Team{ Name = "Adesso Lahey" },
+                new Team{ Name = "Adesso Eindhoven" },
                 #endregion
 
                 #region Portekiz
-                new Team{ Name = "Adesso Lisbon", CountryId = 5 },
-                new Team{ Name = "Adesso Porto", CountryId = 5 },
-                new Team{ Name = "Adesso Braga", CountryId = 5 },
-                new Team{ Name = "Adesso Coimbra", CountryId = 5 },
+                new Team{ Name = "Adesso Lisbon" },
+                new Team{ Name = "Adesso Porto" },
+                new Team{ Name = "Adesso Braga" },
+                new Team{ Name = "Adesso Coimbra"},
                 #endregion
 
                 #region İtalya
-                new Team{ Name = "Adesso Roma", CountryId = 6 },
-                new Team{ Name = "Adesso Milano", CountryId = 6 },
-                new Team{ Name = "Adesso Venedik", CountryId = 6 },
-                new Team{ Name = "Adesso Napoli", CountryId = 6 },
+                new Team{ Name = "Adesso Roma" },
+                new Team{ Name = "Adesso Milano" },
+                new Team{ Name = "Adesso Venedik" },
+                new Team{ Name = "Adesso Napoli" },
                 #endregion
 
                 #region İspanya
-                new Team{ Name = "Adesso Sevilla", CountryId = 7 },
-                new Team{ Name = "Adesso Madrid", CountryId = 7 },
-                new Team{ Name = "Adesso Barselona", CountryId = 7 },
-                new Team{ Name = "Adesso Granada", CountryId = 7 },
+                new Team{ Name = "Adesso Sevilla" },
+                new Team{ Name = "Adesso Madrid" },
+                new Team{ Name = "Adesso Barselona" },
+                new Team{ Name = "Adesso Granada" },
                 #endregion
 
                 #region Belçika
-                new Team{ Name = "Adesso Brüksel", CountryId = 8 },
-                new Team{ Name = "Adesso Brugge", CountryId = 8 },
-                new Team{ Name = "Adesso Gent", CountryId = 8 },
-                new Team{ Name = "Adesso Anvers", CountryId = 8 },
+                new Team{ Name = "Adesso Brüksel" },
+                new Team{ Name = "Adesso Brugge" },
+                new Team{ Name = "Adesso Gent" },
+                new Team{ Name = "Adesso Anvers" },
                 #endregion
             };
         }
