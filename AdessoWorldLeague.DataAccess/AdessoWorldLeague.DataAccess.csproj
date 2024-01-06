@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdessoWorldLeague.Core\AdessoWorldLeague.Core.csproj" />
+    <ProjectReference Include="..\AdessoWorldLeague.Entities\AdessoWorldLeague.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
